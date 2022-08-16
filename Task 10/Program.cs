@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Введите число: ");
+﻿Console.WriteLine("Введите  число: ");
 
 int n = int.Parse(Console.ReadLine());
 
